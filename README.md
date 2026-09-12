@@ -198,12 +198,27 @@ EnglishGrammarApp/
 
 
 
-\## 📸 Screenshots
+## 📸 Screenshots
 
+### Main Screen
 
+![Main Screen](screenshots/main-screen.png)
 
-Screenshots will be added in a future update.
+### Grammar Lessons
 
+![Grammar Lessons](screenshots/lessons.png)
+
+### Grammar Topics
+
+![Grammar Topics](screenshots/grammar-topics.png)
+
+### Vocabulary Topics
+
+![Vocabulary Topics](screenshots/vocabulary-topics.png)
+
+### Vocabulary Words
+
+![Vocabulary Words](screenshots/vocabulary-words.png)
 
 
 \## 👩‍💻 Developer
