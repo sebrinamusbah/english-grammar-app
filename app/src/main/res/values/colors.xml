@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBlueblack">#0D47A1</color>  <!-- Dark mode blue -->
+    <color name="statusBlue">#2196F3</color>  <!-- Light mode blue -->
+
+
+
+</resources>

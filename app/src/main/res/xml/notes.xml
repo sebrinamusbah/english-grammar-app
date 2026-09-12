@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes>
+
+    <lesson number="1" title="Parts of Speech">
+
+        <topic name="Nouns" color="#FFD966">
+            <description>
+                A noun is the name of a person, place, thing, animal, idea, action, or quality.
+                In other words, nouns are the words we use to identify everything around us.
+                They make communication possible because whenever we speak, we must mention something or someone.
+                Nouns allow us to talk about objects that exist physically like car or tree, living beings like teacher or lion, places like school or Ethiopia, and also invisible concepts like love, honesty, and intelligence.
+                Without nouns, sentences would not have subjects or objects — so it is the foundation of English grammar.
+
+            </description>
+            <types>
+                 Proper and Common Nouns
+                 Countable and Uncountable Nouns
+                 Concrete and Abstract Nouns
+                 Collective Nouns
+                 Compound and Material Nouns
+            </types>
+            <rules>
+                - Proper nouns always start with a capital letter.
+                - Singular/plural forms must agree with the verb.
+                - Some nouns are uncountable and do not use 'a' or 'an'.
+            </rules>
+            <examples>
+                The girl is reading.
+                The girls are playing.
+                London is a beautiful city.
+                I need some water.
+            </examples>
+        </topic>
+        <topic name="Pronouns" color="#FFCC80">
+            <description>
+                A pronoun is a word used in place of a noun to avoid repetition and make sentences smoother.
+                Instead of repeating the same noun again and again, we use pronouns as substitutes.
+                Pronouns must clearly refer to a specific noun, known as their antecedent.
+                They make language easier and more natural by replacing the names of people, places, things, or ideas already known in the context.
+                Without pronouns, sentences would sound repetitive and uncomfortable.
+
+            </description>
+            <types>
+                Personal and Possessive Pronouns
+                Reflexive Pronouns
+                Demonstrative Pronouns
+                Relative Pronouns
+                Indefinite Pronouns
+            </types>
+            <rules>
+                Pronouns must agree with the noun in number and gender.
+
+                Use a pronoun only when the noun is clear.
+                Use subject pronouns for subjects and object pronouns for objects.
+
+                Reflexive pronouns are used when subject and object are the same.
+            </rules>
+            <examples>
+                She is my best friend.
+                They live in Addis Ababa.
+                This is my book.
+                The boy cut himself while playing.
+                Someone knocked at the door.
+            </examples>
+        </topic>
+        <topic name="Verbs" color="#90CAF9">
+            <description>
+                A verb is a word that expresses an action, state, or condition. Verbs tell us what the subject of a sentence does, what happens to it, or what condition it is in.
+                Without a verb, a sentence cannot be complete because the verb provides movement and meaning.
+                Verbs can show time, such as past, present, or future actions, and can also show possibility, permission, or obligation.
+            </description>
+            <types>
+                Action Verbs
+                Linking Verbs
+                Helping (Auxiliary) Verbs
+                Transitive and Intransitive Verbs
+            </types>
+            <rules>
+                A verb must match the subject in number.
+                Verbs change forms with tenses.
+                Helping verbs support the main verb’s meaning.
+                Linking verbs are followed by adjectives, not adverbs.
+            </rules>
+            <examples>
+                Examples
+                The boy runs fast.
+                They are friends.
+                She has eaten lunch.
+                The sun shines brightly.
+                We will study tomorrow.
+            </examples>
+        </topic>
+        <topic name="Adjectives" color="#90CAF9">
+            <description>
+                An adjective is a word that describes or gives more information about a noun or pronoun.
+                Adjectives help identify qualities such as size, shape, age, color, origin, or opinion.
+                They make language richer by adding details to the nouns we talk about. Without adjectives, descriptions would be plain and unclear.
+            </description>
+            <types>
+                Descriptive Adjectives
+                Quantitative Adjectives
+                Demonstrative Adjectives
+                 Possessive Adjectives
+                Interrogative Adjectives
+            </types>
+            <rules>
+                 Adjectives usually come before a noun.
+                 To compare two or more, use comparative and superlative forms.
+                Adjectives do not change form for number or gender.
+            </rules>
+            <examples>
+                Examples
+                She has a beautiful smile.
+                They live in a small house.
+                I have three pencils.
+                Which color do you like?
+                This is my book.
+            </examples>
+        </topic>
+        <topic name="Adverbs" color="#90CAF9">
+            <description>
+                An adverb is a word that describes or modifies a verb, an adjective, or another adverb.
+                It tells us how, when, where, or how often something happens. Adverbs add detail to the action or description and make communication more precise.
+
+
+            </description>
+            <types>
+                Adverbs of Manner
+
+                Adverbs of Time
+
+                Adverbs of Place
+
+                Adverbs of Frequency
+                Adverbs of Degree
+
+            </types>
+            <rules>
+                Many adverbs are formed by adding -ly to adjectives.
+                Adverbs can appear at the beginning, middle, or end of a sentence.
+                Adverbs modify verbs, adjectives, or other adverbs.
+            </rules>
+            <examples>
+                Examples
+
+                He speaks politely.
+
+                She arrived early.
+
+                The children are playing outside.
+
+                I often drink coffee.
+
+                The movie was very interesting.
+
+            </examples>
+        </topic>
+
+    </lesson>
+    <lesson number="2" title="Sentence Structure">
+
+        <topic name="Simple Sentences" color="#FFD54F">
+            <description>
+                A simple sentence is a sentence that expresses a complete thought and contains only one independent clause.
+                An independent clause has a subject and a predicate and can stand alone as a meaningful statement.
+                Simple sentences are the building blocks of English because they allow us to convey basic information clearly and directly. They may include a single idea or multiple ideas connected with coordinating conjunctions, but they never have dependent clauses.
+
+            </description>
+            <rules>
+                 A simple sentence must have one subject and one predicate, though the subject or predicate can be compound.
+                 It expresses a complete thought and can stand alone.
+                Simple sentences can include descriptive words, phrases, or compound subjects/predicates.
+                It ends with a period (.) unless it is an exclamation or question.
+
+            </rules>
+            <examples>
+                Examples:
+                The boy runs fast.
+                My mother cooks delicious food.
+                Students study in the library every day.
+                The flowers bloom in spring.
+                Birds sing and fly high in the sky.
+            </examples>
+        </topic>
+
+
+        <topic name="Compound Sentences" color="#FF8A65">
+            <description>
+                A compound sentence is made up of two or more independent clauses joined by coordinating conjunctions such as and, but, or, nor, for, so, yet. Each clause has its own subject and predicate, and together they express related ideas.
+                Compound sentences allow writers and speakers to combine ideas without creating overly long or confusing sentences.
+            </description>
+            <rules>
+                1️⃣ Use a comma + coordinating conjunction to join two independent clauses.
+
+                2️⃣ Independent clauses can also be joined with a semicolon (;) without a conjunction.
+
+                3️⃣ Each clause in a compound sentence must be able to stand alone as a complete sentence.
+
+                4️⃣ Avoid using subordinating conjunctions (like because, although) in compound sentences, as these create complex sentences instead.
+
+
+            </rules>
+            <examples>
+                Examples:
+
+                I went to the park, and my friends stayed at home.
+
+                She is very kind, but her brother is strict.
+
+                We can watch a movie, or we can play a game.
+
+                He didn’t like the food, so he cooked something himself.
+
+                The sun set beautifully, yet the sky remained cloudy.
+
+            </examples>
+        </topic>
+
+        <topic name="Complex Sentences" color="#FF8A65">
+            <description>
+                A complex sentence consists of one independent clause and at least one dependent clause.
+                A dependent clause cannot stand alone and is connected to the main clause using subordinating conjunctions like because, although, since, while, if, when, unless. Complex sentences help express detailed ideas, conditions, reasons, or contrasts, making writing more sophisticated.
+
+            </description>
+            <rules>
+            The dependent clause can come before or after the independent clause.
+
+            Use a comma when the dependent clause comes first.
+
+            No comma is needed if the dependent clause comes after the independent clause, unless it is for clarity or emphasis.
+            Dependent clauses often start with subordinating conjunctions or relative pronouns like who, which, that.
+            </rules>
+            <examples>
+                I couldn’t go to the party because I was sick.
+
+                Although she studied hard, she failed the test.
+
+                When the train arrived, we were already at the station.
+
+                He stayed home since it was raining heavily.
+
+                The book that you gave me is very interesting.
+            </examples>
+        </topic>
+
+        <topic name="Subject and Predicate" color="#FF8A65">
+            <description>
+                A sentence is made up of two main parts: the subject and the predicate.
+                The subject tells who or what the sentence is about, while the predicate tells what the subject does or what happens to the subject.
+                Understanding subjects and predicates is essential to constructing grammatically correct sentences.
+            </description>
+            <rules>
+             The subject usually comes before the predicate in English.
+                The subject can be simple (one word) or compound (two or more words).
+                The predicate includes the verb and may include objects, complements, or modifiers.
+                Every complete sentence must have both a subject and a predicate.
+
+            </rules>
+            <examples>
+                The teacher explains the lesson clearly.
+
+                My friends are playing in the park.
+
+                The cat sleeps on the sofa.
+
+                Students who study regularly perform better.
+
+                The sun rises in the east and sets in the west.
+
+
+            </examples>
+        </topic>
+
+        <topic name="Questions and Negatives" color="#FF8A65">
+            <description>
+                Definition:
+                A question, or interrogative sentence, is a sentence that asks something and expects an answer. Questions often begin with question words like who, what, when, where, why, how or helping verbs like is, are, do, does, did, can, will.
+
+
+            </description>
+            <rules>
+            Yes/No questions use auxiliary or helping verbs at the beginning.
+                Wh-questions begin with a question word and are followed by the verb and subject.
+                Questions end with a question mark (?).
+                In questions, the subject and verb order may change.
+
+            </rules>
+            <examples>
+                What is your name?
+
+                Who is at the door?
+
+                When will the train arrive?
+
+                Can I help you with that?
+
+                Why didn’t he call me yesterday?
+
+            </examples>
+        </topic>
+
+
+    </lesson>
+    <lesson number="3" title="Tenses">
+        <topic name="Present Simple and Continuous" color="#FFD54F">
+            <description>
+                The present simple tense is used to describe habitual actions, general truths, repeated events, and permanent situations. It is the most basic tense in English and expresses facts or routines.
+
+                The present continuous tense (also called present progressive) is used to describe actions happening right now, temporary situations, or future plans. It emphasizes that the action is ongoing at the moment of speaking.
+
+                Present Simple Usage:
+
+                Habitual actions: I brush my teeth twice a day.
+
+                General truths: The sun rises in the east.
+
+                Permanent situations: She lives in Addis Ababa.
+
+                Instructions: You open the book on page 10.
+
+                Scheduled events: The train leaves at 9 AM.
+
+
+                Present Continuous Usage:
+
+                Action happening now: They are playing outside.
+
+                Temporary situation: I am working on a new project this week.
+
+                Planned future events: We are visiting our grandparents on Sunday.
+
+                Changing situations: The weather is getting colder.
+
+
+            </description>
+            <rules>
+                Present Simple:
+                1️⃣ Use the base form of the verb for all subjects except he, she, it, which takes -s/-es.
+
+                2️⃣ Add -es to verbs ending in -s, -sh, -ch, -x, -o.
+
+                3️⃣ Use do/does for questions and negatives.
+                Present Continuous:
+                1️⃣ Form: am/is/are + verb-ing.
+
+                2️⃣ Use for actions happening right now.
+
+                3️⃣ Use for temporary situations or changes.
+
+                4️⃣ Use for future plans.
+
+            </rules>
+            <examples>
+                Examples
+
+                I go to school every day.
+
+                She does her homework after dinner.
+
+                They are watching a movie right now.
+
+                We are preparing for the exam this week.
+
+                The teacher is explaining the lesson at the moment.
+
+                He always drinks coffee in the morning.
+
+
+
+            </examples>
+        </topic>
+        <topic name="Past Simple and Continuous" color="#FF8A65">
+            <description>
+                The past simple tense is used to describe completed actions in the past. It is the tense of storytelling and history.
+
+                The past continuous tense describes actions that were in progress at a specific time in the past or two simultaneous past actions. It emphasizes duration or background events.
+                Past Simple Usage:
+
+                Completed actions: I finished my homework yesterday.
+
+                Past habits: She often visited her grandparents.
+
+                Historical facts: World War II ended in 1945.
+
+
+                Past Continuous Usage:
+
+                Action in progress: I was studying at 9 PM last night.
+
+                Simultaneous actions: While I was reading, my sister was writing a letter.
+
+                Background events: It was raining when I left the house.
+
+            </description>
+            <rules>
+                Past Simple:
+                1️⃣ Regular verbs add -ed.
+                ➡ Example: I visited my friend yesterday.
+                2️⃣ Irregular verbs change completely.
+                ➡ Example: She went to the market.
+
+                3️⃣ Use did for questions and negatives.
+                ➡ Question: Did you see the movie?
+                ➡ Negative: I did not (didn’t) see the movie.
+
+                Past Continuous:
+                1️⃣ Form: was/were + verb-ing.
+                ➡ Example: I was reading a book.
+                ➡ Example: They were playing football.
+
+                2️⃣ Use for actions in progress at a specific time in the past.
+                ➡ Example: At 8 PM, I was watching TV.
+
+                3️⃣ Use for simultaneous past actions.
+                ➡ Example: I was cooking while he was cleaning.
+
+                4️⃣ Use for background information in storytelling.
+                ➡ Example: The sun was shining, and birds were singing.
+
+
+            </rules>
+            <examples>
+                Examples
+
+                I played football last weekend.
+
+                She went to the market yesterday.
+
+                They were watching a movie at 7 PM.
+
+                He was sleeping while I was studying.
+
+                The children were playing outside when it started to rain.
+
+            </examples>
+        </topic>
+        <topic name="Future Simple Tense" color="#FF8A65">
+            <description>
+                The future simple tense expresses actions that will happen in the future. It is often used for promises, predictions, or spontaneous decisions.
+
+                The “going to” future expresses planned or certain future events. It emphasizes intention or prediction based on present evidence.
+
+
+                Future Simple Usage:
+
+                Predictions: The sun will rise at 6 AM.
+
+                Promises: I will always support you.
+
+                Spontaneous decisions: I’m hungry. I will eat now.
+
+
+                Going To Usage:
+
+                Planned actions: I am going to meet my teacher tomorrow.
+
+                Evidence-based predictions: Look at him! He’s going to fall.
+
+                Intentions: We are going to start a new project next week.
+
+
+            </description>
+            <rules>
+                1️⃣ Form: will + base verb.
+
+                2️⃣ Use for predictions:
+
+                3️⃣ Use for promises or spontaneous decisions:
+
+                Going To Future:
+                1️⃣ Form: am/is/are + going to + base verb.
+
+                2️⃣ Use for planned actions:
+
+                3️⃣ Use for predictions based on evidence:
+
+            </rules>
+            <examples>
+                Examples
+
+                I will travel to France next year.
+
+                She will pass the exam if she studies hard.
+
+                We are going to visit our grandparents this weekend.
+
+                He is going to buy a new car soon.
+
+                Don’t worry, I will help you with your homework.
+
+
+            </examples>
+        </topic>
+        <topic name="Present Perfect" color="#FF8A65">
+            <description>
+                The present perfect tense describes actions that happened at an unspecified time in the past or have a connection to the present. It is used to emphasize experience, change, or result rather than a specific time.
+
+            </description>
+            <rules>
+                1 Form: have/has + past participle.
+
+                2️⃣ Use has for he, she, it and have for I, you, we, they.
+
+                3️⃣ Negative form: have/has + not + past participle.
+
+                4️⃣ Question form: Have/Has + subject + past participle?
+
+                5️⃣ Common time expressions: already, yet, ever, never, just, recently, so far.
+
+            </rules>
+            <examples>
+                I have seen that movie three times.
+
+                She has just finished cooking dinner.
+
+                They have lived in this city for five years.
+
+                Have you ever been to London?
+
+                He has never eaten sushi before.
+
+                We have already completed the project.
+
+            </examples>
+        </topic>
+    </lesson>
+    <lesson number="4" title="Article and Dterminers">
+        <topic name="Indefinite Articles" color="#FFD54F">
+            <description>
+                The indefinite article is used when we refer to any one of a class of things, not a specific item. It is used only with singular countable nouns.
+
+                Types:
+
+                a → used before words that begin with a consonant sound.
+
+                an → used before words that begin with a vowel sound (a, e, i, o, u).
+            </description>
+            <types>
+            Usage :
+
+            Referring to one item among many.
+
+            Talking about a job, profession, or role.
+
+            Introducing something new to the conversation.
+
+            Referring to something not specific.
+
+            </types>
+
+
+
+            <rules>
+                Rules:
+                1️⃣ Use a before singular nouns starting with a consonant sound.
+
+                2️⃣ Use an before singular nouns starting with a vowel sound.
+
+
+                3️⃣ Do not use indefinite articles with plural nouns or uncountable nouns.
+                4️⃣ Use a/an when introducing something for the first time.
+
+
+            </rules>
+            <examples>
+                I saw a dog in the park.
+
+                She bought an orange from the market.
+
+                He is a teacher.
+
+                I would like an umbrella because it’s raining.
+
+                There is a book on the table.
+
+
+
+
+            </examples>
+        </topic>
+        <topic name="Definite Article" color="#FF8A65">
+            <description>
+                The definite article “the” is used when we talk about a specific person, place, thing, or idea that is already known to the listener or reader.
+
+
+
+            </description>
+            <types>
+                Usage:
+
+                Referring to something specific already mentioned.
+
+                Talking about unique objects or one-of-a-kind things.
+
+                Indicating superlative or ordinal things.
+
+                Referring to a specific group of people or items.
+
+
+
+            </types>
+            <rules>
+                1️⃣ Use “the” when both speaker and listener know the noun.
+
+                2️⃣ Use “the” with unique objects or things.
+
+                3️⃣ Use “the” with superlatives and ordinal numbers.
+
+
+                4️⃣ Use “the” with plural nouns when referring to a specific group.
+
+
+                5️⃣ Do not use “the” with general ideas, most proper nouns, or abstract nouns.
+
+
+
+            </rules>
+            <examples>
+                Examples:
+
+                The book on the table belongs to me.
+
+                She visited the Eiffel Tower last year.
+
+                The children are playing in the garden.
+
+                I went to the market, and I bought the apples we talked about.
+
+                The Nile River is the longest river in Africa.
+
+
+            </examples>
+        </topic>
+        <topic name="Demonstratives" color="#FF8A65">
+            <description>
+                Demonstratives are words that point to specific nouns and indicate proximity in time or space.
+
+                Types:
+
+                This → singular, near
+
+                These → plural, near
+
+                That → singular, far
+
+                Those → plural, far
+
+            </description>
+            <rules>
+
+                1️⃣ Use this/these for objects close to the speaker.
+                2️⃣ Use that/those for objects far from the speaker.
+                3️⃣ Demonstratives can modify countable and uncountable nouns, but “this/that” is singular, and “these/those” is plural.
+
+            </rules>
+            <examples>
+                This is my bag.
+
+                That is a beautiful painting.
+
+                These apples are fresh.
+
+                Those cars are expensive.
+
+                I don’t like this weather; let’s wait for that sunny day.
+
+
+            </examples>
+        </topic>
+        <topic name="Quantifiers" color="#FF8A65">
+            <description>
+                Quantifiers are words that express quantity or amount. They tell us how much or how many of a noun exists.
+
+                Usage:
+
+                Expressing present/future ability: can
+
+                Expressing past ability: could
+
+                Expressing ability in other tenses: be able to
+
+                Talking about inability: cannot / couldn’t
+
+                Asking about someone’s ability: Can / Could + subject + verb
+
+
+
+            </description>
+            <rules>
+
+                1️⃣ Use some in affirmative sentences and any in questions or negatives.
+
+
+                2️⃣ Use much for uncountable nouns in negative or question sentences.
+
+
+                3️⃣ Use many for countable nouns.
+
+
+                4️⃣ Use a few / few for small countable quantity; a little / little for uncountable nouns.
+
+
+                5️⃣ Use all / every / each for totality.
+
+
+
+
+            </rules>
+            <types>
+                Some / Any → unspecified quantity (some for affirmative, any for questions/negatives)
+
+                Much / Many → much for uncountable, many for countable
+
+                A lot of / Lots of → large quantity
+
+                Few / A few / Little / A little → small quantity
+
+                Several → more than a few, but not many
+
+                All / Every / Each → totality or individual consideration
+            </types>
+            <examples>
+                I have some apples in my bag.
+
+                Do you have any milk left?
+
+                There isn’t much water in the bottle.
+
+                She bought many flowers for the garden.
+
+                I need a few pens for school.
+
+
+
+            </examples>
+        </topic>
+    </lesson>
+    <lesson number="5" title="Modal and Auxiliary Verb">
+
+        <topic name="Modals" color="#FFD54F">
+            <description>
+                Modals are special auxiliary verbs that express ability, possibility, permission, obligation, or necessity. They are always followed by the base form of the main verb and do not change according to the subject.
+
+                Unlike regular verbs, modals:
+
+                Do not change according to the subject (I/you/he → can, not cans).
+
+                Do not have past or future forms (use could for past, will/could for future).
+
+                Form negatives simply by adding not (cannot, should not).
+
+                Form questions by inverting the modal and subject (Can you…?, Should we…?).
+            </description>
+            <types>
+            Usage
+
+            Permission: may, can
+
+            Possibility: may, might, could
+
+            Ability: can, could
+
+            Obligation / necessity: must, should, ought to
+
+            Future prediction: shall, will
+
+            Politeness / requests: could, would
+
+            Expressing certainty or probability: must (for logical conclusions)
+
+            </types>
+
+            <rules>
+                Modals never take -s in the third person singular.
+
+                Modals are followed by the base verb without “to” (except “ought to”).
+
+                Modals do not have past forms (use alternatives like “could” for past).
+
+                Common modals: can, could, may, might, must, shall, should, will, would.
+            </rules>
+            <examples>
+                You must wear a helmet while riding a bike.
+
+                She can speak three languages.
+
+                We may go to the park if it stops raining.
+
+                You should eat more vegetables.
+
+                He might come to the party tonight.
+
+
+            </examples>
+        </topic>
+        <topic name="Using 'Do/Does/Did'" color="#FF8A65">
+            <description>
+                TDemonstratives are words that point to specific nouns and indicate proximity in time or space.
+
+
+            </description>
+            <types>
+                “Do,” “does,” and “did” are auxiliary verbs used to form questions, negatives, or emphasize statements in English.
+
+                Rules:
+
+                Do → used with I, you, we, they in present simple.
+
+                Does → used with he, she, it in present simple.
+
+                Did → used for all subjects in past simple.
+
+                In questions, the auxiliary comes before the subject.
+
+                In negatives, use do/does/did + not + base verb.
+
+                Emphasis: use do/does/did to emphasize a statement in positive form.
+
+
+
+                Usage:
+
+                Forming yes/no questions: Do/Does/Did + subject + base verb
+
+                Forming negatives: subject + do/does/did + not + base verb
+
+                Emphasizing statements: do/does/did + base verb
+
+                Asking for confirmation or repetition
+
+
+
+
+            </types>
+            <rules>
+                1Do → used with I, you, we, they in present simple.
+
+                Does → used with he, she, it in present simple.
+
+                Did → used for all subjects in past simple.
+
+                In questions, the auxiliary comes before the subject.
+
+                In negatives, use do/does/did + not + base verb.
+
+                Emphasis: use do/does/did to emphasize a statement in positive form.
+
+
+
+
+            </rules>
+            <examples>
+                Do you like chocolate?
+
+                Does she play football every weekend?
+
+                Did they attend the meeting yesterday?
+
+                I do not want to go to the market.
+
+                He does not like spicy food.
+
+                We did not see him at the park.
+
+                I do enjoy reading novels.
+
+                She does know the answer to your question.
+
+            </examples>
+        </topic>
+        <topic name="Expressing Ability" color="#FF8A65">
+            <description>
+                Ability is expressed using modals (can, could) or auxiliary verbs in different tenses to show what someone is able to do now, in the past, or in the future.
+                Expressing ability is essential in English because it allows us to talk about skills, competence, potential, and opportunities in everyday life, education, work, and social situations. Without these structures, it would be hard to clearly indicate what someone is capable of or unable to do.
+
+                Usage:
+
+                Expressing present/future ability: can
+
+                Expressing past ability: could
+
+                Expressing ability in other tenses: be able to
+
+                Talking about inability: cannot / couldn’t
+
+                Asking about someone’s ability: Can / Could + subject + verb
+
+
+
+            </description>
+            <rules>
+
+                Use can for present/future ability.
+
+                Use could for past ability.
+
+                Use be able to when expressing ability in other tenses (past, present perfect, future).
+
+                Negative form: cannot / can’t, could not / couldn’t
+
+                Questions: Can / Could + subject + base verb
+
+            </rules>
+            <examples>
+                Examples
+
+                I can swim very fast.
+
+                She could read when she was three years old.
+
+                They will be able to solve the problem tomorrow.
+
+                He cannot attend the meeting today.
+
+                Can you help me with this task?
+
+                Could he speak French when he was a child?
+
+
+
+            </examples>
+        </topic>
+
+    </lesson>
+    <lesson number="6" title="Voice">
+        <topic name="Active Voice" color="#FFD54F">
+            <description>
+            The active voice is a grammatical structure in which the subject of the sentence performs the action expressed by the verb. In other words, the doer of the action comes first, followed by the verb and the object receiving the action. Active voice is the most common sentence structure in English because it is direct, clear, and concise.
+
+            Active voice emphasizes the doer of the action, making sentences more dynamic and easy to understand. It is often used in everyday communication, storytelling, instructions, and academic writing when clarity and responsibility are important.
+            </description>
+
+            <types>
+            Usage:
+
+            To show who is performing the action.
+
+            To make writing clear and direct.
+
+            For storytelling or narration.
+
+            In instructions or commands to show action clearly.
+
+            When the doer of the action is more important than the receiver.
+            Steps:
+            1️⃣ Identify the subject, verb, and object in the active sentence.
+            2️⃣ Move the object of the active sentence to become the subject of the passive sentence.
+            3️⃣ Use the correct form of “to be” according to the tense of the active verb.
+            4️⃣ Change the main verb to its past participle.
+            5️⃣ Optionally, add the original subject at the end with “by” (if important).
+
+
+</types>
+
+
+            <rules>
+                The subject comes first, followed by the verb and then the object.
+
+                Keep the verb in the correct tense.
+                Use active voice when the agent performing the action is important.
+
+            </rules>
+            <examples>
+                The teacher explains the lesson.
+
+                I wrote a letter to my friend.
+
+                She is reading a book.
+
+                They are building a new house.
+
+                How to Change from Active to Passive
+
+
+            </examples>
+        </topic>
+        <topic name="Passive Voice" color="#FF8A65">
+            <description>
+                The passive voice is a grammatical structure in which the subject of the sentence receives the action rather than performs it. The focus shifts from the doer of the action to the receiver or the action itself. In passive voice, the verb is formed with a form of “to be” + past participle of the main verb.
+
+                Passive voice is used to emphasize the action or the object rather than the subject. It is common in formal writing, reports, scientific papers, news reports, and situations where the doer is unknown or unimportant.
+                Step:
+                1️⃣ Identify the subject, verb, and agent in the passive sentence.
+                2️⃣ Move the agent (after “by”) to become the subject of the active sentence.
+                3️⃣ Change the verb form to match the tense of the passive sentence.
+                4️⃣ The original subject of the passive becomes the object of the active sentence.
+                5️⃣ Omit “by” since the agent is now the subject.
+
+                Examples:
+
+                Passive: The lesson is explained by the teacher.
+                → Active: The teacher explains the lesson.
+
+                Passive: A letter was written by her.
+                → Active: She wrote a letter.
+
+                Passive: A new house is being built by them.
+                → Active: They are building a new house.
+
+            </description>
+            <types>
+
+                To emphasize the receiver of the action rather than the doer.
+
+                When the doer is unknown.
+
+                In formal writing (reports, essays, research papers).
+
+                To make sentences less personal or more objective.
+
+                To maintain variety in sentence structure.
+
+
+            </types>
+            <rules>
+                1️⃣ Form: Object of active sentence → becomes subject of passive sentence.
+                2️⃣ The verb “to be” is used in the same tense as the original active verb.
+                3️⃣ The doer/agent is optional and added with “by” if necessary.
+                4️⃣ Subjects of active sentences may be omitted in passive if unknown or unimportant.
+
+
+
+            </rules>
+            <examples>
+                The lesson is explained by the teacher.
+
+                A letter was written by me.
+
+                A book is being read by her.
+
+                A new house is being built by them.
+
+                A delicious meal was cooked by the chef.
+
+                How to Change from Passive to Active
+
+
+            </examples>
+        </topic>
+        <topic name="Active Voice and Passive Voice" color="#FFD54F">
+            <description>
+                The active voice is a grammatical structure in which the subject of the sentence performs the action expressed by the verb. In other words, the doer of the action comes first, followed by the verb and the object receiving the action. Active voice is the most common sentence structure in English because it is direct, clear, and concise.
+
+                Active voice emphasizes the doer of the action, making sentences more dynamic and easy to understand. It is often used in everyday communication, storytelling, instructions, and academic writing when clarity and responsibility are important.
+            </description>
+
+            <types>
+                Usage:
+
+                To show who is performing the action.
+
+                To make writing clear and direct.
+
+                For storytelling or narration.
+
+                In instructions or commands to show action clearly.
+
+                When the doer of the action is more important than the receiver.
+                Steps:
+                1️⃣ Identify the subject, verb, and object in the active sentence.
+                2️⃣ Move the object of the active sentence to become the subject of the passive sentence.
+                3️⃣ Use the correct form of “to be” according to the tense of the active verb.
+                4️⃣ Change the main verb to its past participle.
+                5️⃣ Optionally, add the original subject at the end with “by” (if important).
+
+
+            </types>
+
+
+            <rules>
+                The subject comes first, followed by the verb and then the object.
+
+                Keep the verb in the correct tense.
+                Use active voice when the agent performing the action is important.
+
+            </rules>
+            <examples>
+                The teacher explains the lesson.
+
+                I wrote a letter to my friend.
+
+                She is reading a book.
+
+                They are building a new house.
+
+                How to Change from Active to Passive
+
+
+            </examples>
+        </topic>
+
+    </lesson>
+    <lesson number="7" title="Conditional and Reported Speech">
+
+        <topic name="Zero Conditional" color="#FFD54F">
+            <description>
+                The zero conditional is used to express general truths, scientific facts, habits, or things that are always true. It is a cause-and-effect structure where the result always happens if the condition is met.
+
+                Structure: If + present simple, present simple
+
+                It is called “zero” because the outcome is certain.
+
+
+            </description>
+            <types>
+            Usage:
+
+            To express scientific facts.
+
+            To talk about laws of nature.
+
+            For general truths or rules.
+
+            To describe habitual or repeated actions.
+
+            To show cause and effect when the result is certain.
+
+            </types>
+            <rules>
+                1️⃣ Use present simple in both clauses.
+                2️⃣ The if-clause can come first or second; the comma is only needed if the if-clause comes first.
+                3️⃣ No modal verbs are used (like will, can) because the result is certain.
+
+            </rules>
+            <examples>
+                Examples
+
+                If you heat water to 100°C, it boils.
+
+                If it rains, the grass gets wet.
+
+                You get sick if you eat too much sugar.
+
+                If I touch fire, it burns me.
+
+                Plants die if they do not get water.
+
+                If the sun sets, it gets dark.
+
+                If you mix red and blue, you get purple.
+
+                .
+
+
+            </examples>
+        </topic>
+        <topic name="First Conditional" color="#FF8A65">
+            <description>
+                The first conditional is used to talk about realistic future possibilities or events. It refers to situations that can happen in the future if the condition is met.
+
+                Structure: If + present simple, will + base verb
+
+                icate proximity in time or space.
+
+
+            </description>
+            <types>
+                Usage:
+
+                To express possible future events.
+
+                To warn or give advice about future consequences.
+
+                To promise or threaten based on a future condition.
+
+                To talk about plans that depend on a condition.
+
+                Usage:
+
+                Forming yes/no questions: Do/Does/Did + subject + base verb
+
+                Forming negatives: subject + do/does/did + not + base verb
+
+                Emphasizing statements: do/does/did + base verb
+
+                Asking for confirmation or repetition
+
+
+
+
+            </types>
+            <rules>
+                1️⃣ Use present simple in the if-clause.
+                2️⃣ Use will / won’t + base verb in the main clause.
+                3️⃣ If the if-clause comes first, separate with a comma; otherwise, no comma is needed.
+                4️⃣ Modals like may, might, can  sometimes replace will for possibility.
+
+
+            </rules>
+            <examples>
+                If it rains tomorrow, we will stay at home.
+
+                You will get wet if you don’t take an umbrella.
+
+                If she studies hard, she will pass the exam.
+
+                I will call you if I arrive early.
+
+                If you eat too much cake, you will feel sick.
+
+                We may go to the beach if the weather is good.
+
+                If he doesn’t hurry, he will miss the bus.
+
+
+
+            </examples>
+        </topic>
+        <topic name="Second Conditional" color="#FF8A65">
+            <description>
+                The second conditional is used for hypothetical or unreal situations in the present or future. It talks about things that are unlikely or imaginary, and their possible results.
+
+                Structure: If + past simple, would + base verb
+                Usage:
+
+                To talk about imaginary or unreal situations.
+
+                To give advice in hypothetical scenarios.
+
+                To express dreams or wishes about the present or future.
+
+                To describe unreal consequences of unlikely events.
+            </description>
+            <rules>
+
+                2️⃣ Use would / wouldn’t + base verb in the main clause.
+                3️⃣ The if-clause can come first or second; commas are optional if the if-clause comes second.
+                4️⃣ Can also use could or might instead of would for possibility.
+
+            </rules>
+            <examples>
+                If I won the lottery, I would buy a mansion.
+
+                She would travel more if she had more free time.
+
+                If I were you, I would apologize immediately.
+
+                They would help us if they knew the problem.
+
+                If he studied harder, he might get better grades.
+
+
+
+
+
+            </examples>
+        </topic>
+        <topic name="Reported Speech" color="#FF8A65">
+            <description>
+                Reported speech is used to restate what someone else has said without quoting their exact words. It focuses on conveying the meaning of the original sentence rather than repeating it word-for-word.
+
+                Often called indirect speech, it involves changing pronouns, verb tenses, and time expressions to fit the context.
+
+                Usage (List/Note Format):
+
+                To report statements made by others.
+
+                To summarize conversations.
+
+                To avoid quoting exactly and make writing smoother.
+
+                In formal writing or storytelling to convey information.
+
+            </description>
+            <rules>
+
+                1️⃣ Change pronouns according to the speaker and listener.
+                2️⃣ Change verb tense: present → past, past → past perfect, etc.
+                3️⃣ Time expressions may need adjustment (today → that day, tomorrow → the next day).
+                4️⃣ Remove quotation marks.
+                5️⃣ Use introductory verbs like said, told, asked, explained.
+
+
+
+            </rules>
+            <examples>
+                Direct: “I am tired,” she said.
+                → Reported: She said that she was tired.
+
+                Direct: “I will call you tomorrow,” he said.
+                → Reported: He said that he would call me the next day.
+
+                Direct: “I have finished my homework,” they said.
+                → Reported: They said that they had finished their homework.
+
+                Direct: “Can you help me?” he asked.
+                → Reported: He asked if I could help him.
+
+                Direct: “I saw him yesterday,” she said.
+                → Reported: She said that she had seen him the day before.
+
+            </examples>
+        </topic>
+        <topic name="Indirect Speech" color="#FF8A65">
+            <description>
+                Description:
+
+                Direct speech is used to quote someone’s exact words. It is enclosed in quotation marks and conveys the original tone, meaning, and expression of the speaker.
+
+                Direct speech is often used in dialogues, storytelling, interviews, and narrative writing.
+
+                Usage:
+
+                To quote the exact words of someone.
+
+                In dialogues in stories or plays.
+
+                To emphasize the speaker’s tone or emotion.
+
+                For interviews or news reports to present accurate statements.
+
+                To highlight instructions, commands, or questions.
+            </description>
+            <rules>
+
+                1️⃣ Enclose the speaker’s words in quotation marks (“…”).
+                2️⃣ Begin with a capital letter.
+                3️⃣ Introduce the speaker with reporting verbs: said, asked, told, exclaimed.
+                4️⃣ Punctuation like commas, question marks, or exclamation points is placed inside the quotation marks.
+                5️⃣ Use correct pronouns and tense as spoken.
+            </rules>
+            <examples>
+                She said, “I am tired.”
+
+                He said, “I will call you tomorrow.”
+
+                They said, “We have finished our homework.”
+
+                He asked, “Can you help me?”
+
+                She said, “I saw him yesterday.”
+
+                The teacher said, “Open your books to page 10.”
+
+                He shouted, “Stop immediately!”
+
+                She asked, “Where are you going?”
+
+            </examples>
+        </topic>
+
+    </lesson>
+    <lesson number="8" title="Punctuation and Writing Skills">
+        <topic name="Punctuation Marks" color="#FFD54F">
+            <description>
+                Punctuation marks are symbols used in writing to clarify meaning, indicate pauses, and separate ideas. They help make writing understandable, organized, and expressive. Proper punctuation avoids confusion and improves the flow of sentences.
+
+
+            </description>
+            <types>
+            Usage:
+
+            To end sentences (full stop, question mark, exclamation mark).
+
+            To separate items in a list (comma, semicolon).
+
+            To show possession (apostrophe).
+
+            To indicate direct speech or quotes (quotation marks).
+
+            To join sentences (colon, dash, parentheses).
+
+            To show abbreviation (period/full stop).
+
+            To indicate omission of letters or numbers (apostrophe).
+            </types>
+
+            <rules>
+                1️⃣ Full Stop (.) – ends declarative sentences and abbreviations.
+                2️⃣ Comma (,) – separates items, clauses, or introductory words.
+                3️⃣ Question Mark (?) – ends questions.
+                4️⃣ Exclamation Mark (!) – shows strong emotion or command.
+                5️⃣ Colon (:) – introduces a list, explanation, or quote.
+                6️⃣ Semicolon (;) – links related independent clauses.
+                7️⃣ Quotation Marks (“ ”) – enclose direct speech or quotations.
+                8️⃣ Apostrophe (’) – shows possession or contraction.
+                9️⃣ Parentheses ( ) – add extra information or clarification.
+                🔟 Dash (–) – indicates a pause, interruption, or range.
+
+
+            </rules>
+            <examples>
+                Example:
+
+                I like apples, bananas, and oranges.
+
+                She said, “I am going to school.”
+
+                Stop right there!
+
+                Are you coming with us?
+
+                My brother’s bike is new.
+
+                The teacher explained the rules (which were very simple).
+
+                He lives in Addis Ababa – the capital of Ethiopia.
+            </examples>
+        </topic>
+        <topic name="Capitalization Rules" color="#FF8A65">
+            <description>
+                Capitalization is the use of uppercase letters at the beginning of words to show importance, proper nouns, or sentence start. It improves readability and distinguishes proper nouns from common nouns.
+            </description>
+
+            <rules>
+                1️⃣ Capitalize the first word of a sentence.
+                2️⃣ Capitalize proper nouns (names of people, places, days, months, holidays).
+                3️⃣ Capitalize titles of books, movies, and articles.
+                4️⃣ Capitalize personal pronoun “I”.
+                5️⃣ Capitalize important words in headings and titles.
+                6️⃣ Capitalize nationalities, languages, religions, and organizations.
+                7️⃣ Do not capitalize common nouns, articles, prepositions, or conjunctions unless they start a sentence.
+
+
+
+            </rules>
+            <examples>
+                Examples
+
+                I am going to school today.
+
+                My favorite book is “Harry Potter and the Sorcerer’s Stone.”
+
+                Monday is the first day of the week.
+
+                She speaks English and Amharic.
+
+                We visited the United Nations headquarters.
+
+
+            </examples>
+        </topic>
+        <topic name="Writing Short Paragraphs" color="#FF8A65">
+            <description>
+                Description:
+                Writing short means expressing ideas clearly, concisely, and effectively. It avoids unnecessary words and focuses on the main idea. This skill is essential in notes, letters, essays, and exams.
+
+            </description>
+            <rules>
+
+                Rules:
+                1️⃣ Use simple words and short sentences.
+                2️⃣ Avoid repeating information unnecessarily.
+                3️⃣ Focus on key points rather than long explanations.
+                4️⃣ Use bullet points or numbers for lists.
+                5️⃣ Keep verbs active for direct meaning.
+                6️⃣ Use abbreviations only when appropriate and clear.
+
+            </rules>
+            <examples>
+                Examples
+
+                Original: I went to the market yesterday because I wanted to buy some fruits and vegetables.
+                → Short: I went to the market to buy fruits and vegetables.
+
+                Original: She was very happy because she passed her final exams.
+                → Short: She was happy to pass her exams.
+
+                Original: The teacher explained the rules of the game, and the students listened carefully.
+                → Short: The teacher explained the game rules; students listened carefully.
+
+                Steps for planting a tree:
+
+                Dig a hole.
+
+                Place the sapling.
+
+                Cover with soil.
+
+                Water the plant.
+
+
+            </examples>
+        </topic>
+        <topic name="Simple Dialogue Practice" color="#FF8A65">
+            <description>
+                A simple dialogue is a conversation between two or more people written in a way that shows who is speaking. It uses direct speech with quotation marks and is common in stories, plays, interviews, and practice exercises.
+
+            </description>
+            <rules>
+
+                1️⃣ Begin each speaker’s line on a new line.
+                2️⃣ Use quotation marks (“ ”) for spoken words.
+                3️⃣ Start with a capital letter for the first word spoken.
+                4️⃣ Include a reporting verb if needed (said, asked, replied, shouted).
+                5️⃣ Use commas, question marks, and exclamation marks correctly inside quotes.
+                6️⃣ Keep dialogues simple, clear, and realistic.
+
+            </rules>
+            <examples>
+                Examples
+
+                Example 1:
+
+                A: “Hello! How are you?”
+
+                B: “I’m fine, thank you. And you?”
+
+                A: “I’m good too.”
+
+                Example 2:
+
+                Teacher: “Please open your books to page 20.”
+
+                Student: “Yes, ma’am.”
+
+                Example 3:
+
+                Mother: “Don’t forget to do your homework.”
+
+                Son: “I won’t, Mom.”
+
+                Example 4:
+
+                A: “Where are you going?”
+
+                B: “I’m going to the market to buy some fruits.”
+
+                A: “Can I come with you?”
+
+                B: “Of course!”
+
+                Example 5:
+
+                Friend 1: “Did you watch the new movie?”
+
+                Friend 2: “Yes, it was amazing!”
+
+                Friend 1: “I want to watch it too.”
+
+
+
+            </examples>
+        </topic>
+    </lesson>
+
+
+</notes>
