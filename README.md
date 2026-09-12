@@ -105,25 +105,16 @@ EnglishGrammarApp/
 
 ## 📸 Screenshots
 
-### Main Screen
+<p align="center">
+  <img src="screenshots/main-screen.png" width="220">
+  <img src="screenshots/lessons.png" width="220">
+  <img src="screenshots/grammar-topics.png" width="220">
+</p>
 
-![Main Screen](screenshots/main-screen.png)
-
-### Grammar Lessons
-
-![Grammar Lessons](screenshots/lessons.png)
-
-### Grammar Topics
-
-![Grammar Topics](screenshots/grammar-topics.png)
-
-### Vocabulary Topics
-
-![Vocabulary Topics](screenshots/vocabulary-topics.png)
-
-### Vocabulary Words
-
-![Vocabulary Words](screenshots/vocabulary-words.png)
+<p align="center">
+  <img src="screenshots/vocabulary-topics.png" width="220">
+  <img src="screenshots/vocabulary-words.png" width="220">
+</p>
 
 ## 👩‍💻 Developer
 
